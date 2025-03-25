@@ -1,6 +1,6 @@
 ---js
 const title = "2025 Investor Policy Statement";
-const date = "2025-03-02";
+const date = "2025-03-01";
 const draft = false;
 const tags = ["2025", "march", "money", "retirement", "investory policy statement"]
 ---
