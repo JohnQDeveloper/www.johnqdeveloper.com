@@ -2,7 +2,7 @@
 const title = "2025 Personal Vision Statement";
 const date = "2025-03-01";
 const draft = false;
-const tags = ["2025", "march", "money", "retirement", "personal vision statement"]
+const tags = ["2025", "march", "money", "retirement", "personal vision statement", "goals"]
 ---
 
 ### 2025 Personal Vision Statement
@@ -22,7 +22,7 @@ It is not my only pseudonym as I have a gamer tag, but it is the one I intend to
 https://livingwage.mit.edu/states/42
 
 MAR/2025: $47,657 for 1 Adult
-MAR/2025: $67,114 for 2 Adults 
+MAR/2025: $67,114 for 2 Adults
 MAR/2025: $74,000 for 2 Adults <- It should be noted this is where I fit in as my goal is DINK due to my age and health issues at this point.
 MAR/2025: $124,197 for the Family of 4 (2 Working Adults, 2 Children)
 
