@@ -2,9 +2,11 @@
 
 This is my main website repository for static content (blog, and so forth).
 
-It does, not, however include a number of functions (the content on subdomains) which are seperate open source projects.
+It does, not, however include a number of functions (the content on subdomains) which are separate open source projects.
 
 Please keep in mind the public@ address is heavily filtered and may not ever get a response if used.
+
+If you use BunnyCDN, you need to use something like [npm install --save upload-to-bunny](https://github.com/markwylde/upload-to-bunny)
 
 ## Original instructions from eleventy-base-blog v9
 
