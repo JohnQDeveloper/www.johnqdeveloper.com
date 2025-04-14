@@ -1,13 +1,17 @@
 /* Defaults */
 @font-face {
     font-family: 'AtkinsonHyperlegibleNext'; /*a name to be used later*/
-    src: url('https://common-static-files.b-cdn.net/default-font/TTF/AtkinsonHyperlegibleNext-Regular.ttf') format('truetype') /*URL to font*/
+    src:
+		local('AtkinsonHyperlegibleNext'),
+		url('https://common-static-files.b-cdn.net/default-font/TTF/AtkinsonHyperlegibleNext-Regular.ttf') format('truetype'), /*URL to font*/
 		url('https://common-static-files.b-cdn.net/default-font/WOFF2/AtkinsonHyperlegibleNext-Regular.woff2') format('woff'); /*URL to font*/
 }
 
 @font-face {
     font-family: 'AtkinsonHyperlegibleMono'; /*a name to be used later*/
-    src: url('https://common-static-files.b-cdn.net/default-mono-font/TFF/AtkinsonHyperlegibleMono-Regular.ttf') format('truetype') /*URL to font*/
+    src:
+		local('AtkinsonHyperlegibleMono'),
+		url('https://common-static-files.b-cdn.net/default-mono-font/TFF/AtkinsonHyperlegibleMono-Regular.ttf') format('truetype'), /*URL to font*/
 		url('https://common-static-files.b-cdn.net/default-mono-font/TFF/AtkinsonHyperlegibleMono-Regular.woff2') format('woff'); /*URL to font*/
 }
 
