@@ -22,7 +22,9 @@ It also contains the standard documents (contributing, licensing, contract templ
 
 I will only respond to pull requests of sufficient quality / urgency as well as security issues that seem to be done by a professional and not AI/automated tools. The main purpose is to crowd source QA from end users so I can prioritize things I don't personally experience in terms of bugs and feature requests.
 
-I understand (and myself) use AI but some people treat it as more reliable than something that can autocomplete boilerplate code or a single line of code. It is not able to write complete functions and/or contributions at a professional level. Similarly, anything more than autocomplete usage of AI is in legal limbo in many jurisdictions so you can't really sign off on it being your contribution to assign copyright to the project under the MIT license which will poison the project's future.
+I understand (and myself) use AI but some people treat it as more reliable than something that can autocomplete boilerplate code or a single line of code. Outside of automated refactors, autocompleting boilerplate or a single line it hallucinates way too much to be trusted right now.
+
+That said, for purposes other than code generation (i.e. code review) it has a function if you can tolerate the high hallucination rate if only to give you some things to consider for a moment before dismissing.
 
 **Ways for any IT Professional/Student  to Contribute**
 1) Community management to organize and condense a variety of conversations into a single issue/ticket that my automation properly counts priority based on community reactions / votes.
@@ -40,21 +42,19 @@ I understand (and myself) use AI but some people treat it as more reliable than 
 **Pull Requests**
 1) Make sure pre-commit passes before submitting.
 2) You are expected to handle pull request conflicts and other issues that may crop up until it's merged. If this does not happen in time for a release, it'll be left open for a while.
-3) Generally pull requests are merged once a quarter when I take some time on a weekend to do code review. If you were not merged, it is not that you never will be but rather I'm budgeting 8-12 hours for QA/code review/merging across all my open source projects for pull requests so I'm time restricted.
-4) That said, if I completely ignore your pull request and you think it was ready that likely means I'm not intending to merge it. I generally will comment that I plan to merge if I have time in a future review window. Generally I'll at least note that it will be reviewed in a future window when I have time if I intend to review it but didn't have time.
-5) Ideally, I use accepted pull requests as a measure to find/measure potential collaborators. I can hand out permissions to do the code review, QA, and merge requests without me but that is not going to happen in 2025.
-6) Pull requests should be bug fixes. They should not be features. They should not add dependencies or otherwise increase long term maintenance.
-7) Pull requests should be based off of the MinorRelease branch which is the latest major version + any bug/security fixes.
-8) Feature requests will be considered for major versions but you are going to be waiting a long time so keep that in mind. (i.e. 6-12 months)
-9) If you want to PR a new feature, please make sure it is in the backlog of existing approved issues on my site. Roadmap is my plans, Icebox is stuff we aren't implementing in the next major version at a minimum.
-10) You need to sign off that you are contributing under the MIT license and you did not use AI generated code to get things merged.
+3) Generally pull requests are merged once a quarter when I take some time on a weekend to do code review. If you were not merged, it is not that you never will be but rather I'm out my limited budget of time.
+4) Pull requests should be bug fixes. They should not be features. They should not add dependencies or otherwise increase long term maintenance.
+5) Bug should be based off the latest release. Features should be based off of development.
+6) Feature requests will be considered for major versions but you are going to be waiting a long time so keep that in mind. (i.e. 6-12 months)
+7) If you want to PR a new feature, please make sure it is in the roadmap or backlog of existing approved issues on my site.
+8) You need to sign off that you are contributing under the MIT license and you did not rely heavily on AI generated code to get things merged.
 
 **Project Priorities**
-1) Urgent is for security issues and critical bugs outside the normal release schedule.
-2) Minor roadmap is for bugs intended to be fixed as part of the normal release schedule.
-3) Major roadmap is for features and other larger changes as part of the annual release schedule.
-4) Backlog is stuff that I'd like to do but have no plans to do right now.
-5) Icebox is for stuff that might move into the backlog but is effectively tabled for at least 18+ months.
+1) Critical is for security issues and critical bugs outside the normal release schedule.
+2) Roadmap is for features and bugs I intend to address as I have time.
+3) Backlog is stuff that I'd like to do but have no plans to do in the next 12 months.
+4) Icebox is for stuff that might move into the backlog but is effectively tabled until more time is available.
+5) WontFix is stuff I do not intend to do. I understand that can frustrate some people which is why it is a MIT license so you can fork and make your own changes if you are unhappy.
 
 **Versioning**
 
