@@ -3,4 +3,4 @@ package-lock.json
 .cache
 public/
 vendor/
-bunny-api-key.txt
+*key*.txt
