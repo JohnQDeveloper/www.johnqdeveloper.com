@@ -10,7 +10,17 @@ These projects are really meant for people with a sysadmin/developer background 
 
 Some projects are meant to be used by end users (but not deployed by them) and this is an intentional decision.
 
-All projects will be MIT licensed for public QA versions. Private LTS versions may have a separate license sometimes.
+Most projects will be MIT licensed for public QA versions. Private LTS versions may have a separate license sometimes.
+
+Commercial projects (i.e. SaaS) will be AGPL: https://www.gnu.org/licenses/agpl-3.0.en.html
+
+License violations will result in small claims court actions for $3000 in damages plus permanent removal of your right to use any code written by me at any point in my life. The courts used will be in Richmond, VA.
+
+If violations continue past the completion of the small claims court case, it will simply be handed over to any lawyer interested in the case with a reasonable track record and free reign to collect as long as I get $1 in damages and can block you from continuing to use code written by me at any point in my professional life. I believe these damages will be in the range of $3000/month of the project's existence (about 20 hours at my going rate) + penalties + expenses.
+
+If you wish to use my code after you are notified of a licensing violation (regardless of whether you end up in court or not), you will be asked to pay to continue to use my software. The amount requested will be based on the project lifetime (i.e. $3000/month) to date plus $3000/month for continued use. This will allow you to avoid licensing enforcement activities.
+
+Given this will be publicly linked in the official repositories for all my projects, I suggest you consult a lawyer before actually forcing me to take you to court and they will tell you a public notification is all it takes to enforce terms for licensing.
 
 **Paid Support / LTS Versions**
 See Contact johnqdeveloper.com for contact details and monthly retainer terms.
@@ -47,7 +57,7 @@ That said, for purposes other than code generation (i.e. code review) it has a f
 5) Bug should be based off the latest release. Features should be based off of development.
 6) Feature requests will be considered for major versions but you are going to be waiting a long time so keep that in mind. (i.e. 6-12 months)
 7) If you want to PR a new feature, please make sure it is in the roadmap or backlog of existing approved issues on my site.
-8) You need to sign off that you are contributing under the MIT license and you did not rely heavily on AI generated code to get things merged.
+8) You need to sign off that you are contributing under the MIT license and you did not submit code you do not own.
 
 **Project Priorities**
 1) Critical is for security issues and critical bugs outside the normal release schedule.
