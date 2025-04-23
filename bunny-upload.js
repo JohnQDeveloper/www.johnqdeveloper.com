@@ -11,3 +11,13 @@ await uploadToBunny('./public', '', {
   maxConcurrentUploads: 10,
   region: ''
 });
+
+const url = 'https://api.bunny.net/pullzone/3531648/purgeCache';
+const options = {method: 'POST', headers: {'content-type': 'application/json', 'AccessKey': api_key}};
+
+fetch(url, options)
+  .then(res => res.json())
+  .then(json => console.log(json))
+  .catch(err => console.error(err));
+
+  console.log("Upload completed to www.johnqdeveloper.com and CDN cache should be purged.")
