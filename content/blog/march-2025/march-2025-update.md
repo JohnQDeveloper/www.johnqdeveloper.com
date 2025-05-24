@@ -5,7 +5,7 @@ const draft = false;
 const tags = ["2025", "march", "projects", "annual goals update", "goals"]
 ---
 
-**The basics here is there are a number of projects I failed to complete successfully in the psat and I'm trying again in 2025/2026.**
+**The basics here is there are a number of projects I failed to complete successfully in the past and I'm trying again in 2025/2026.**
 
 Keep in mind, these are _rough goals_ and not _serious promises or deadlines_. This is ultimately just my hobby/psuedonym stuff.
 
