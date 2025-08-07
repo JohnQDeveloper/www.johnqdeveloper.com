@@ -1,3 +1,12 @@
+# Blog Post
+
+Copyright (c) 2025+, John Q Developer
+
+Technical Articles / Code is available under a MIT License.
+
+LitRPGs, general content is all rights reserved.
+
+# Note: This license is for the codebase, not the written blog post content
 MIT License
 
 Copyright (c) 2017–2024 Zach Leatherman @zachleat, John Q Developer (extending the codebase)
