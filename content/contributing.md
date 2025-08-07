@@ -8,63 +8,26 @@ const eleventyNavigation = {
 **Meta**
 These projects are really meant for people with a sysadmin/developer background who are capable of debugging code, deployment tools, etc.
 
-Some projects are meant to be used by end users (but not deployed by them) and this is an intentional decision.
+The maintainer's contribution is making these publicly available and ocassionally fixing issues with multiple user reports with sufficient detail to reproduce. I do not provide support of any kind for these projects, that is the community's responsiblilty.
 
-Most projects will be MIT licensed for public QA versions. Private LTS versions may have a separate license sometimes.
+If you want maintainer support contracts, those are available _for purchase_ on the contact page.
 
-Commercial projects (i.e. SaaS) will be AGPL: https://www.gnu.org/licenses/agpl-3.0.en.html
+**Pull Requests/Issues**
+1) If you submit a pull request, you should have treated AI (if used) at most as a pair programmer, and properly corrected any issues with its code. Vibe coded pull requests without any human review of the output will be closed without further discussion.
 
-License violations will result in small claims court actions for $3000 in damages plus permanent removal of your right to use any code written by me at any point in my life. The courts used will be in Richmond, VA.
+2) You are expected to have a junior professional level of knowledge. Most people have this by the second year of work or college in the field, so this is not a high bar but will help significantly with AI on the field that generally does not meet this standard which helps cut down on noise.
 
-If violations continue past the completion of the small claims court case, it will simply be handed over to any lawyer interested in the case with a reasonable track record and free reign to collect as long as I get $1 in damages and can block you from continuing to use code written by me at any point in my professional life. I believe these damages will be in the range of $3000/month of the project's existence (about 20 hours at my going rate) + penalties + expenses.
+3) Pull requests should be based on the last qa release for the project. Anyone not based on that will be told to rebase without me thinking if the code is worth merging.
 
-If you wish to use my code after you are notified of a licensing violation (regardless of whether you end up in court or not), you will be asked to pay to continue to use my software. The amount requested will be based on the project lifetime (i.e. $3000/month) to date plus $3000/month for continued use. This will allow you to avoid licensing enforcement activities.
+4) I probably will do one full review of a project and all its issues/merge requests every 3 months or so. This is ultimately a side project so I'm not reliable unless I'm being paid meainginful amounts of money (i.e. $1000s a month).
 
-Given this will be publicly linked in the official repositories for all my projects, I suggest you consult a lawyer before actually forcing me to take you to court and they will tell you a public notification is all it takes to enforce terms for licensing.
-
-**Paid Support / LTS Versions**
-See Contact johnqdeveloper.com for contact details and monthly retainer terms.
-
-**JQD Projects**
-johnQdeveloper.com contains announcements, roadmaps, and how I organize my adulting as well as what I believe. It also contains my availability to take on work, meetings, and contact points.
-
-It also contains the standard documents (contributing, licensing, contract templates, etc.) for all of my projects under the pseudonym.
-
-I will only respond to pull requests of sufficient quality / urgency as well as security issues that seem to be done by a professional and not AI/automated tools. The main purpose is to crowd source QA from end users so I can prioritize things I don't personally experience in terms of bugs and feature requests.
-
-I understand (and myself) use AI but some people treat it as more reliable than something that can autocomplete boilerplate code or a single line of code. Outside of automated refactors, autocompleting boilerplate or a single line it hallucinates way too much to be trusted right now.
-
-That said, for purposes other than code generation (i.e. code review) it has a function if you can tolerate the high hallucination rate if only to give you some things to consider for a moment before dismissing.
-
-**Ways for any IT Professional/Student  to Contribute**
-1) Community management to organize and condense a variety of conversations into a single issue/ticket that my automation properly counts priority based on community reactions / votes.
-2) Testing and QA of versions with clear documentation so I can reproduce issues found and fix them. I may not respond but I do have an automated tool tracking upvotes / reactions to issues so I can prioritize fixes based on number of users affected or seriousness. The second one is AI so if it is a security issue be sure to use the appropriate GitHub contact point.
-3) Providing documentation updates to make it easier for users.
-4) Providing community support to other users as I will only provide paid support for my open source projects.
-5) Read this document so you understand my methods to make contributions more relevant for me.
-
-**Bug Reports**
-1) You must include your OS (we only support Ubuntu LTS versions starting with 24.04) as well as expected behavior vs. actual behavior of the software.
-2) Step by step reproduction steps for a bug is mandatory for an issue to have any chance at being addressed.
-3) You must also include your version of the software.
-4) Please be sure to search and upvote similar bugs rather than submit new ones as splitting votes across multiple issues/discussions will not properly upvote the priority in my tooling to determine what I work on next.
-
-**Pull Requests**
-1) Make sure pre-commit passes before submitting.
-2) You are expected to handle pull request conflicts and other issues that may crop up until it's merged. If this does not happen in time for a release, it'll be left open for a while.
-3) Generally pull requests are merged once a quarter when I take some time on a weekend to do code review. If you were not merged, it is not that you never will be but rather I'm out my limited budget of time.
-4) Pull requests should be bug fixes. They should not be features. They should not add dependencies or otherwise increase long term maintenance.
-5) Bug should be based off the latest release. Features should be based off of development.
-6) Feature requests will be considered for major versions but you are going to be waiting a long time so keep that in mind. (i.e. 6-12 months)
-7) If you want to PR a new feature, please make sure it is in the roadmap or backlog of existing approved issues on my site.
-8) You need to sign off that you are contributing under the MIT license and you did not submit code you do not own.
+5) Any pull request must sign a contributor licensing agreement stating its their original work and being shared under the AGPL and that I have the right to relicense it for private versions for contract work. No CLA, no merge.
 
 **Project Priorities**
-1) Critical is for security issues and critical bugs outside the normal release schedule.
-2) Roadmap is for features and bugs I intend to address as I have time.
-3) Backlog is stuff that I'd like to do but have no plans to do in the next 12 months.
-4) Icebox is for stuff that might move into the backlog but is effectively tabled until more time is available.
-5) WontFix is stuff I do not intend to do. I understand that can frustrate some people which is why it is a MIT license so you can fork and make your own changes if you are unhappy.
+
+https://roadmap.johnqdeveloper.com
+
+This has my current work queue, its more a question of what order things will get done then it is a "real" time estimate but if you want a rough idea of how long things might take it does provide some clarity in the form of X months in the future.
 
 **Versioning**
 
@@ -72,7 +35,7 @@ Year = Major version for that year that might contain breaking changes.
 2025.X.0-qa - Annual release with X being the minor release. (i.e. MARCH would be 2025.3.0)
 2025.03.01-qa - Security/critical fix for the MARCH, 2025 release.
 
-We will not be doing releases more frequently than once a year unless something more urgent needs to be done. Generally, I plan to release a major version in the same quarter each year to spread things around a bit. That said, if you see 2 years in a row with no release, you should assume its been abandoned. I'll do my best to handle my paperwork but things fall through the cracks.
+We will not be doing releases more frequently than once a year unless something more urgent needs to be done. Generally, I plan to release a major version in the same quarter each year to spread things around a bit. That said, if you see 2 years in a row with no release, you should assume its been abandoned.
 
 2025.03.01-qa means it is the standard public QA release.
 
