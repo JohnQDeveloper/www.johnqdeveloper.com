@@ -1,6 +1,6 @@
 ---js
 const title = "August 2025 Update";
-const date = "2025-07-01";
+const date = "2025-08-01";
 const draft = false;
 const tags = ["2025", "august", "projects", "annual goals update", "goals"]
 ---
