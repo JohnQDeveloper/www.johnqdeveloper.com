@@ -25,9 +25,7 @@ If you want maintainer support contracts, those are available _for purchase_ on 
 
 **Project Priorities**
 
-https://roadmap.johnqdeveloper.com
-
-This has my current work queue, its more a question of what order things will get done then it is a "real" time estimate but if you want a rough idea of how long things might take it does provide some clarity in the form of X months in the future.
+Tbd; right now I'm just working on whatever strikes my fancy.
 
 **Versioning**
 
