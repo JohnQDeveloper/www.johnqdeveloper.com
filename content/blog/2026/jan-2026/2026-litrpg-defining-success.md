@@ -5,6 +5,34 @@ const draft = false;
 const tags = ["2026", "litrpg", "writing", "writing to market"];
 ---
 
+# Goal Release Date
+
+1 Chapter / Day * 60 Chapters = 60 days after January 1st
+
+Since I'm going with a 5 day a week release schedule:
+
+30 * 5/7 = 21.4 chapters per 30 days
+
+December 30th 2025 + 60 days = Saturday, Feburary 28th
+
+Do a 4 chapter drop on Feburary 28th and March 1st (weekends) for maximum visibility then proceed as normal
+
+Chapter drop schedule is Wednesday through Sunday with Mon/Tuesday off.
+
+Start asking for shoutout swaps on Feb 1 on the boards and try to fill 1 in 3 chapters with swaps.
+
+### Backlog Burn Down
+
+Goal backlog is 30 days so I'll burn down the initial 43 chapter backlog in the following manner:
+
+### 5 Chapters for follower / rising stars goals
+0) 8 Chapters for the initial release drop
+1) 100 Followers = Chapter 1
+2) 300 Followers = Chapter 2
+3) 500 Followers = Chapter 3
+4) Entering Fantasy Rising Stars List = Chapter 4
+5) Entering Rising Stars Main List = Chapter 5
+
 # Financial Goal @ 60 days after release
 
 1. 30 chapters per month @ 2 hours per chapter / 60 hours per month
@@ -21,8 +49,8 @@ const tags = ["2026", "litrpg", "writing", "writing to market"];
 
 # Project Budget
 
-1. Chapter 14 = $110 on two ads on RoyalRoad (527k Impressions)
-2. Chapter 35 = $110 on two ads on RoyalRoad (if numbers look promising) (527k Impressions)
+1. Chapter 20 = $110 on two ads on RoyalRoad (527k Impressions)
+2. Chapter 40 = $110 on two ads on RoyalRoad (if numbers look promising) (527k Impressions)
 3. AI = $25/month (mixed in with other AI subscriptions) for Covers, ads, editing, etc.
 4. $60 / year = RoyalRoad Premium for detailed analytics and importing
 
