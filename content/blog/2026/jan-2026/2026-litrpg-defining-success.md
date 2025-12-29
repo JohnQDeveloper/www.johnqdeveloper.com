@@ -52,7 +52,7 @@ Goal backlog is 30 days so I'll burn down the initial 43 chapter backlog in the 
 
 1. Chapter 20 = $110 on two ads on RoyalRoad (527k Impressions)
 2. Chapter 40 = $110 on two ads on RoyalRoad (if numbers look promising) (527k Impressions)
-3. AI = $25/month (mixed in with other AI subscriptions) for Covers, ads, editing, etc.
+3. AI = $25/month (mixed in with other AI uses) for Covers, ads, editing, etc.
 4. $60 / year = RoyalRoad Premium for detailed analytics and importing
 
 # Advertising Math
