@@ -7,19 +7,22 @@ const tags = ["2026", "litrpg", "writing", "writing to market"];
 
 # Goal Release Date
 
-1 Chapter / Day * 60 Chapters = 60 days after January 1st
+1 Chapter / Day * 60 Chapters = 60 days after January 31st
 
 Since I'm going with a 5 day a week release schedule:
 
 30 * 5/7 = 21.4 chapters per 30 days
 
-December 30th 2025 + 60 days = Saturday, Feburary 28th
+Do a 4 chapter drop on January 31st and Feburary 1st (weekends) for maximum visibility then proceed as normal
 
-Do a 4 chapter drop on Feburary 28th and March 1st (weekends) for maximum visibility then proceed as normal
+Chapter drop schedule is Monday through Friday.
 
-Chapter drop schedule is Wednesday through Sunday with Mon/Tuesday off.
+Start asking for shoutout swaps on Jan 1 on the boards and try to fill the month of February in advance.
 
-Start asking for shoutout swaps on Feb 1 on the boards and try to fill 1 in 3 chapters with swaps.
+4 weeks = 20 shoutouts
+
+First shoutout on Feburary 1st on Chapter 8 basically.
+
 
 ### Backlog Burn Down
 
