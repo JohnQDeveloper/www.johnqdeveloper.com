@@ -46,6 +46,7 @@ Goal backlog is 30 days so I'll burn down the initial 43 chapter backlog in the 
 2. Follower Count @ 2% Conversion Rate = 87/0.02 = 4350 Followers on Royal Road after 60 days
 3. Rule of Thumb = 1-4% Conversion Rate of Followers to Patreon (Using average of 2%)
 4. Go Kindle Unlimited when new followers dry up on RoyalRoad. Growth has stalled, so time to end the extended open beta / advanced reader copy project. Do not bother if less than 3000 Followers on RR.
+5. If below 3000 followers but above 1500 followers, consider a publisher and a shorter trilogy oriented version of the series.
 
 # Project Budget
 
