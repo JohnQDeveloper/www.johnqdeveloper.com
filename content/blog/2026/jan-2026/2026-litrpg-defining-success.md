@@ -1,6 +1,6 @@
 ---js
 const title = "Defining Success for the RoyalRoad -> Kindle Unlimited LitRPG Project";
-const date = "2025-01-01";
+const date = "2026-01-01";
 const draft = false;
 const tags = ["2026", "litrpg", "writing", "writing to market"];
 ---
@@ -22,7 +22,6 @@ Start asking for shoutout swaps on Jan 1 on the boards and try to fill the month
 4 weeks = 20 shoutouts
 
 First shoutout on Feburary 1st on Chapter 8 basically.
-
 
 ### Backlog Burn Down
 
